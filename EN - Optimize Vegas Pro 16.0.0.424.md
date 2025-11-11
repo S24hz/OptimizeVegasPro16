@@ -56,7 +56,7 @@ pleas make sure to **uncheck** any option it name not mentioned!
 - Favor audio sync when playing Variable Frame Rate (VFR) media
 - Automatically name regions and markers if not playing
 - use linear scrub range
-- Make spacebar and F 12 Play/Pause instead of Play/Stop
+- Make spacebar and F12 Play/Pause instead of Play/Stop
 - Always draw marker lines
 - Allow edit cursor to be dragged
   
@@ -71,7 +71,7 @@ Go to this location
 then go and backup/replace them!
 
 ### Example:
-cope the following text, then put it into a text file and **save them as** `keyboard.ini`, it must be 1:1
+copy the following text, then put it into a text file and **save them as** `keyboard.ini`, it must be 1:1
 remember to **backup** the original `keyboard.ini` file!
 
 ```

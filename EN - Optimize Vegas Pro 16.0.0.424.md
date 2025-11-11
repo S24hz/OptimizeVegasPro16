@@ -97,7 +97,7 @@ del /s /f /q *.sfk
 then **save it as** .bat file
 what it does is make sure to **clean any** .sfk file in your folder!
 
-a cool *free* plugins [here](https://github.com/RatinFX/VegasProFlow), check them out!
+some cool *free* plugins [here](https://github.com/RatinFX/VegasProFlow), check them out!
 and before you go to the installation process, make sure you have *at least* [.net 4.8](https://dotnet.microsoft.com/en-us/) or higher
 
 # Done!

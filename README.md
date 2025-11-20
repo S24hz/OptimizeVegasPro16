@@ -1,2 +1,3 @@
 # OptimizeVegasPro16
-EN - Optimize Vegas Pro 16.0.0.424
+a guide that helps you to Optimize Vegas!
+شرح يساعدك تزبط vegas!

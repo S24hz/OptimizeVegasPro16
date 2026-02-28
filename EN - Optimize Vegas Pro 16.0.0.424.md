@@ -3,7 +3,21 @@ works also with Vegas 15 too if you use it for some reason...
 use obsidian/notepad++ for better reading experience!
 
 Created in: 09/11/2025 - dd/mm/yyyy
-last time updated in: 19/11/2025 - dd/mm/yyyy
+last time updated in: 28/2/2026 - dd/mm/yyyy
+
+# installation & configuration
+
+## dlls
+install thoes [dlls](vegas%20dlls%20pack.7z) **after** the installation of Vegas 16.
+
+install them on the **same root** as Vegas pro root, here to be specific:
+```C:\Program Files\VEGAS\VEGAS Pro 16.0```
+
+and you're good to go!
+
+### about the dlls
+thoes dlls are collected/extracted from WINDOWS 7 Version 6.1 (Build 7601: Service Pack1)
+any dll outside the %%64bit%% folder are 32bit.
 
 ## in the file explorer
 open the file explorer and go to this location
@@ -105,6 +119,10 @@ some cool *free* plugins [here](https://github.com/RatinFX/VegasProFlow), check 
 and before you go to the installation process, make sure you have *at least* [.net 4.8](https://dotnet.microsoft.com/en-us/) or higher
 
 # Note:
+
+## This section are already included in [[#dlls]] section
+however, what you read here %%this section%% for archiving purposes...
+
 using VisualStudioCode 2024 or higher, case crashes for no reason,
 thankfully you can fix it by coping the original `vcomp140.dll` file from a windows system that don'n have VSC2024 or higher **installed**.
 the one i used have the:
@@ -112,14 +130,15 @@ the one i used have the:
 - product version: `14.44.35211.0`
 - file size: `188KB`
 
-copy/download the file to the vegas folder root
+~~copy/download the file to the vegas folder root
 `C:\Users\<Your User Name>\AppData\Roaming\VEGAS Pro\16.0`
-then open vegas normally
+then open vegas normally~~
 
 # Done!
 
 [^1]:  [Mega Bytes](https://en.wikipedia.org/wiki/Binary_prefix).
 WindowsNT uses 1024 as a unit prefix base, unlike other systems (like Mac/Unix) that use 1000.
+The only *right* thing that **Microsoft** did if you asked me.
 
 [^2]:  Tip! by **default** Vegas save the project file every 5min or in other words 300,000ms
 and you can change that by going in the internal tap and write `msAutoSaveInterval` (just write save)

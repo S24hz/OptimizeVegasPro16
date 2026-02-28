@@ -8,7 +8,7 @@ last time updated in: 28/2/2026 - dd/mm/yyyy
 # installation & configuration
 
 ## dlls
-install thoes [dlls](vegas%20dlls%20pack.7z) **after** the installation of Vegas 16.
+install those [dlls](vegas%20dlls%20pack.7z) **after** the installation of Vegas 16.
 
 install them on the **same root** as Vegas pro root, here to be specific:
 ```C:\Program Files\VEGAS\VEGAS Pro 16.0```
@@ -16,7 +16,7 @@ install them on the **same root** as Vegas pro root, here to be specific:
 and you're good to go!
 
 ### about the dlls
-thoes dlls are collected/extracted from WINDOWS 7 Version 6.1 (Build 7601: Service Pack1)
+those dlls are collected/extracted from WINDOWS 7 Version 6.1 (Build 7601: Service Pack1)
 any dll outside the %%64bit%% folder are 32bit.
 
 ## in the file explorer
